@@ -1,0 +1,5 @@
+name = "gorgany"
+compatibility_date = "2024-05-10"
+
+[site]
+bucket = "./"
